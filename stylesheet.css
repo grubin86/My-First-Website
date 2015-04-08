@@ -76,6 +76,6 @@ li {
 a:hover {
 	font-weight: bold;
 }
-#header .active {
+#header.active {
     background-color:#123456;
 	}
